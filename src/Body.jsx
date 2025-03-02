@@ -10,7 +10,6 @@ const Body = () => {
         <Outlet/>
         <Footer/>
     </div>
-    
 
   )
 }
